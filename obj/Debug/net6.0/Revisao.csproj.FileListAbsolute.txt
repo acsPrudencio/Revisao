@@ -1,0 +1,15 @@
+C:\Workspaces\Visual Studio Code\AplicacaoConsoleComVisualStudioCode\Revisao\bin\Debug\net6.0\Revisao.exe
+C:\Workspaces\Visual Studio Code\AplicacaoConsoleComVisualStudioCode\Revisao\bin\Debug\net6.0\Revisao.deps.json
+C:\Workspaces\Visual Studio Code\AplicacaoConsoleComVisualStudioCode\Revisao\bin\Debug\net6.0\Revisao.runtimeconfig.json
+C:\Workspaces\Visual Studio Code\AplicacaoConsoleComVisualStudioCode\Revisao\bin\Debug\net6.0\Revisao.dll
+C:\Workspaces\Visual Studio Code\AplicacaoConsoleComVisualStudioCode\Revisao\bin\Debug\net6.0\ref\Revisao.dll
+C:\Workspaces\Visual Studio Code\AplicacaoConsoleComVisualStudioCode\Revisao\bin\Debug\net6.0\Revisao.pdb
+C:\Workspaces\Visual Studio Code\AplicacaoConsoleComVisualStudioCode\Revisao\obj\Debug\net6.0\Revisao.csproj.AssemblyReference.cache
+C:\Workspaces\Visual Studio Code\AplicacaoConsoleComVisualStudioCode\Revisao\obj\Debug\net6.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces\Visual Studio Code\AplicacaoConsoleComVisualStudioCode\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfoInputs.cache
+C:\Workspaces\Visual Studio Code\AplicacaoConsoleComVisualStudioCode\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfo.cs
+C:\Workspaces\Visual Studio Code\AplicacaoConsoleComVisualStudioCode\Revisao\obj\Debug\net6.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Workspaces\Visual Studio Code\AplicacaoConsoleComVisualStudioCode\Revisao\obj\Debug\net6.0\Revisao.dll
+C:\Workspaces\Visual Studio Code\AplicacaoConsoleComVisualStudioCode\Revisao\obj\Debug\net6.0\ref\Revisao.dll
+C:\Workspaces\Visual Studio Code\AplicacaoConsoleComVisualStudioCode\Revisao\obj\Debug\net6.0\Revisao.pdb
+C:\Workspaces\Visual Studio Code\AplicacaoConsoleComVisualStudioCode\Revisao\obj\Debug\net6.0\Revisao.genruntimeconfig.cache
